@@ -1,0 +1,13 @@
+name: proj_windTurb
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - ipykernel
+prefix: C:\Users\Lasitha\anaconda3\envs\proj_windTurb

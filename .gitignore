@@ -1,0 +1,14 @@
+# Ignore Conda environments, Python cache files, and data
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
+.env/
+venv/
+env/
+*.conda
+*.egg-info
+.DS_Store
+#data/
+old/
+figures/

@@ -86,7 +86,7 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Wind-Turbine-Power-Generations-EDA.git
+git clone https://github.com/lasithagp/Wind-Turbine-Power-Generations-EDA.git
 cd wind-power-eda
 ```
 
@@ -117,8 +117,9 @@ I'm a Master's graduate in Data Science with a strong foundation in scientific a
 This project is part of my professional portfolio. 
 I'm passionate about applying data science to real-world energy, climate, and sustainability challenges.
 
-📫 Contact: \[[lasithagp@gmail.com](mailto:lasithagp@gmail.com)] <br>
+📫 Contact: \[[lasithaperera@yahoo.com](mailto:lasithaperera@yahoo.com), [lasithagp@gmail.com](mailto:lasithagp@gmail.com)] <br>
 🔗 LinkedIn: \[[https://linkedin.com/in/lasitha-gonaduwage
 ](https://linkedin.com/in/lasitha-gonaduwage
-)]
+)] <br>
+Portfolio: \[[lasithagp.github.io/portfolio](https://lasithagp.github.io/portfolio/)]
 

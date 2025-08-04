@@ -36,7 +36,7 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
 
 ## 📊 Key Insights
 
-![alt text](https://github.com/lasithagp/Wind-Turbine-Power-Generation-Forecasting/blob/main/figures/wind_turbine_analysis.png "wind_turbine_analysis")
+![alt text](https://github.com/lasithagp/Wind-Turbine-Power-Generation-EDA/blob/main/figures/wind_turbine_analysis.png "wind_turbine_analysis")
 
 
 * **Wind Speed vs Power**: Strong non-linear relationship observed; power increases sharply from 3–10 m/s and flattens after \~12 m/s.

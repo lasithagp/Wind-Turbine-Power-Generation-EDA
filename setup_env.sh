@@ -5,7 +5,7 @@ conda create -n proj_windTurb python=3.11 -y
 conda activate proj_windTurb
 
 # 3. Install required packages
-conda install -y pandas numpy matplotlib seaborn scikit-learn statsmodels
+conda install -y pandas numpy matplotlib seaborn scikit-learn statsmodels plotly
 
 # 4. Install Jupyter support so that this env can be used as a kernel
 conda install -y ipykernel

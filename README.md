@@ -2,11 +2,10 @@
 
 ## 📌 Project Overview
 
-This project presents an in-depth Exploratory Data Analysis (EDA) of wind turbine power generation data. 
-Part 1 aims to uncover the key patterns, trends, and relationships between wind speed, direction, and generated power. 
+This project presents an in-depth Exploratory Data Analysis (EDA) of wind turbine power generation [dataset](https://www.kaggle.com/datasets/sudhanvahg/wind-turbine-power-generation-forecasting/) obtained from kaggle. 
+[Part 1](https://github.com/lasithagp/Wind-Turbine-Power-Generation-EDA/blob/main/notebooks/Wind-Turbine-Power-Generation-EDA.ipynb) aims to uncover the key patterns, trends, and relationships between wind speed, direction, and generated power. 
 Includes visual analytics, domain insights, and groundwork for predictive modelling.
 Part 2 aims to train a model (Random Forest / XGBoost) to predict power from available features. 
-
 
 
 ## 🎯 Objectives
@@ -52,12 +51,13 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
 * **Turbine Behavior**:
 
   * Power output drops to zero below ~ 3 m/s (cut-in) and saturates after ~12 m/s.
-  * Possible misalignment or noise observed in outliers — useful for quality assurance.
+  * Possible misalignment or noise observed in outliers, useful for quality assurance.
 
 ## 📅 Features Engineered
 
 * `wind_speed_diff`: difference between 100m and 10m wind speeds
-* `hour`, `month`, `dayofweek`: for diurnal and seasonal analysis
+* `hour`, `month`, `dayofweek`, `Season`: for diurnal and seasonal analysis
+* `WD_bin`, `speed_bin`: for wind direction and speed analysis
 
 ---
 
@@ -68,7 +68,13 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
 * `scikit-learn` (planned for modeling)
 * `statsmodels` (for time decomposition)
 * `scipy` (for correlation and statistical testing)
-* `mpl_toolkits` (3D visualization)
+* `plotly` (3D visualization)
+
+---
+
+## Limitations
+
+[Kaggle dataset](https://www.kaggle.com/datasets/sudhanvahg/wind-turbine-power-generation-forecasting/) limitations (e.g., no turbine specs, unknown location geography)
 
 ---
 

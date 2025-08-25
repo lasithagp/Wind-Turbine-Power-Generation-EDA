@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project presents an in-depth Exploratory Data Analysis (EDA) of wind turbine power generation [dataset](https://www.kaggle.com/datasets/sudhanvahg/wind-turbine-power-generation-forecasting/) obtained from kaggle. 
-[Part 1](https://github.com/lasithagp/Wind-Turbine-Power-Generation-EDA/blob/main/notebooks/Wind-Turbine-Power-Generation-EDA.ipynb) aims to uncover the key patterns, trends, and relationships between wind speed, direction, and generated power. 
+[Part 1](https://nbviewer.org/github/lasithagp/Wind-Turbine-Power-Generation-EDA/blob/main/notebooks/Wind-Turbine-Power-Generation-EDA.ipynb) aims to uncover the key patterns, trends, and relationships between wind speed, direction, and generated power. 
 Includes visual analytics, domain insights, and groundwork for predictive modelling.
 Part 2 aims to train a model (Random Forest / XGBoost) to predict power from available features. 
 

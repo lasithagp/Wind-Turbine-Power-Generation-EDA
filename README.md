@@ -53,7 +53,7 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
   * Power output drops to zero below ~ 3 m/s (cut-in) and saturates after ~12 m/s.
   * Possible misalignment or noise observed in outliers, useful for quality assurance.
 
-## 📅 Features Engineered
+## Features Engineered
 
 * `wind_speed_diff`: difference between 100m and 10m wind speeds
 * `hour`, `month`, `dayofweek`, `Season`: for diurnal and seasonal analysis

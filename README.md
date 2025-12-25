@@ -1,6 +1,6 @@
-# 🌬️ Wind Turbine Power Generation: Exploratory Data Analysis (EDA)
+# Wind Turbine Power Generation: Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an in-depth Exploratory Data Analysis (EDA) of wind turbine power generation [dataset](https://www.kaggle.com/datasets/sudhanvahg/wind-turbine-power-generation-forecasting/) obtained from kaggle. 
 [Part 1](https://nbviewer.org/github/lasithagp/Wind-Turbine-Power-Generation-EDA/blob/main/notebooks/Wind-Turbine-Power-Generation-EDA.ipynb) aims to uncover the key patterns, trends, and relationships between wind speed, direction, and generated power. 
@@ -8,7 +8,7 @@ Includes visual analytics, domain insights, and groundwork for predictive modell
 Part 2 aims to train a model (Random Forest / XGBoost) to predict power from available features. 
 
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze the **seasonal and temporal variability** in wind power generation.
 - Understand how **wind speed and direction** affect turbine output.
@@ -16,7 +16,7 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
 - Provide insights useful for **forecasting, optimization, and maintenance scheduling**.
 - Set the foundation for **predictive modeling** and potential deployment.
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 .
@@ -33,7 +33,7 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
 
 ````
 
-## 📊 Key Insights
+## Key Insights
 
 ![alt text](https://github.com/lasithagp/Wind-Turbine-Power-Generation-EDA/blob/main/figures/wind_turbine_analysis.png "wind_turbine_analysis")
 
@@ -61,7 +61,7 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
 
 ---
 
-## 📦 Tools & Libraries Used
+## Tools & Libraries Used
 
 * **Python 3.11**
 * `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`
@@ -78,20 +78,20 @@ Part 2 aims to train a model (Random Forest / XGBoost) to predict power from ava
 
 ---
 
-## 🧠 What's Next?
+## What's Next?
 
-* 🔮 **Part-2: Modeling Stage** (in progress):
+* **Part-2: Modeling Stage** (in progress):
 
   * Train a regression model (Random Forest / XGBoost) to predict power from wind conditions and other available features in the dataset.
   * Evaluate model performance (MAE, R²).
   * Analyze feature importances using SHAP values.
 
-* 🌐 **Deployment Stage**:
+* **Deployment Stage**:
 
   * Build an interactive dashboard using Streamlit.
   * Let users explore power curves and seasonal trends dynamically.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
 
@@ -115,20 +115,20 @@ jupyter notebook notebooks/Wind-Turbine-Power-Generation-EDA.ipynb
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 I'm a Master's graduate in Data Science with a strong foundation in scientific analysis and environmental modeling. 
 This project is part of my professional portfolio. 
 I'm passionate about applying data science to real-world energy, climate, and sustainability challenges.
 
-📫 Contact: \[[lasithaperera@yahoo.com](mailto:lasithaperera@yahoo.com), [lasithagp@gmail.com](mailto:lasithagp@gmail.com)] <br>
-🔗 LinkedIn: \[[https://linkedin.com/in/lasitha-gonaduwage
+Contact: \[[lasithaperera@yahoo.com](mailto:lasithaperera@yahoo.com), [lasithagp@gmail.com](mailto:lasithagp@gmail.com)] <br>
+LinkedIn: \[[https://linkedin.com/in/lasitha-gonaduwage
 ](https://linkedin.com/in/lasitha-gonaduwage
 )] <br>
 Portfolio: \[[lasithagp.github.io/portfolio](https://lasithagp.github.io/portfolio/)]
